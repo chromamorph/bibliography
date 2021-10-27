@@ -1,0 +1,7 @@
+Wheat
+Cotton
+Copper
+Gold
+Crude oil
+Hard sawnwood
+Cocoa beans

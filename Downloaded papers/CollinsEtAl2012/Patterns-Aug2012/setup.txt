@@ -1,0 +1,31 @@
+Patterns2012
+
+Copyright 2012 Tom Collins. See copying.txt for licence details.
+
+
+Patterns-Jun2012 is a package containing data and Matlab code for translational pattern discovery. It accompanies the publications:
+
+Tom Collins. Computational models of translational pattern discovery. Submitted, 2012.
+
+Tom Collins. Improved methods for pattern discovery in music, with applications in automated stylistic composition. PhD thesis, Faculty of Mathematics, Computing and Technology, The Open University, 2011. Available from http://oro.open.ac.uk/30103/
+
+If you use this code or the data in your own work, please cite the above paper (or thesis if paper is still to appear).
+
+To begin using the functions and scripts in a Matlab environment, place the downloaded folder at a convenient location and add it to your Matlab path. There are a couple of dependencies on the Matlab Statistics Toolbox, but mainly for point set generation. Paths are set by the script patterns2012Globals.m in the analysis subfolder: in particular the paths for projectRoot and dataRoot will need to match your chosen location.
+
+The four pattern discovery algorithms at the heart of this package are implemented as the functions SIA.m, SIAR.m, SIACT.m, and SIARCT.m. For an overview, a good place to start is the script readMe.m in the demo subfolder. This script goes through some examples of pattern discovery in music. Those wishing for more details should begin with the above paper, and a straightforward function such as maximalTranslatablePattern.m. Each function is accompanied by an explanation and an example.
+
+The following references may also be relevant.
+
+Tom Collins, Robin Laney, Alistair Willis, and Paul H. Garthwaite. Modeling pattern importance in Chopin's mazurkas. Music Perception, 28(4):387-414, 2011.
+
+Tom Collins, Jeremy Thurlow, Robin Laney, Alistair Willis, and Paul H. Garthwaite. A comparative evaluation of algorithms for discovering translational patterns in Baroque keyboard works. In J. Stephen Downie and Remco Veltkamp, editors, Proceedings of the International Symposium on Music Information Retrieval, pages 3-8, Utrecht, 2010. International Society for Music Information Retrieval. Available from http://oro.open.ac.uk/21837/
+
+David Meredith, Kjell Lemstrom, and Geraint A. Wiggins. Algorithms for discovering repeated patterns in multidimensional representations of polyphonic music. Journal of New Music Research, 31(4):321-345, 2002.
+
+Esko Ukkonen, Kjell Lemstrom, and Veli Makinen. Geometric algorithms for transposition invariant content-based music retrieval. In Holger H. Hoos and David Bainbridge, editors, Proceedings of the International Symposium on Music Information Retrieval, pages 193-99, Baltimore, MD, 2003. International Society for Music Information Retrieval.
+
+
+Tom Collins,
+Davis, California, home of the US Bicycling Hall of Fame,
+August 2012

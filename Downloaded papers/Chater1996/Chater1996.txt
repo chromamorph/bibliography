@@ -1,0 +1,44 @@
+Comments on Chater1996
+
+p.567: Light source from above as evidence for likelihood
+
+Could be that light source from above explains shading more simply in lots of everyday situations. Could be matter of using the existing "codebase" as much as possible.
+
+Explanations are "simple" relative to what is already understood.
+
+So likelihood principle arises because we're actually looking for the simplest explanation for everything we have experienced including the new thing - not just the new thing in isolation. The simplest explanation for the new thing in isolation may well be different from the simplest explanation of the new thing as part of everything else that has been experienced. The goal is to compress all experience as much as possible, but using a greedy algorithm. If something has been experienced many times and can be interpreted (i.e., encoded, explained) in the same way each time, then this encoding gives good compression on this particular stimulus. So high probability gives high compression - i.e., a short, simple description.
+
+---
+
+p.567: Two-headed horse as evidence for simplicity
+
+The stimulus is a line drawing - we are used to seeing line drawings that are not realistic. If the image was much more realistic - like a photograph, we may not be as ready to assume that the animal is a push-me-pull-you.
+
+---
+
+p. 567: "According to the frequentist account, the conditional probability of the distal layout, given the sensory input, P(Hi|D), is defined as the limit of the frequency of trials on which both the sensory input, D, and the distal layout, Hi, occur, divided by the total frequency of trials on which D occurs. But this limit is not well defined, because the same sensory input will never occur again---and hence a limiting frequency can never be obtained. Of course, similar inputs will occur, but this does not help---because classifying inputs as similar requires some organization is imposed upon them, and it is organization that we want to explain. In short, then, the frequentist interpretation of probability is defined in terms of limiting frequencies in a repeated experiment; and this is inapplicable to probabilities involving sensory inputs, because sensory inputs are never repeated."
+
+A simplicity or compression-based theory would say that the perceptual system tries to produce an encoding of each new sensory input that is as short as possible, given all previous encodings of sensory inputs: therefore it will try to reuse previous encodings, which gives rise to different sensory inputs being classified as being the "same".
+
+---
+
+p.567: Subjectivist conception of probability
+
+Likelihood P(Hi|D) is the degree of belief in the hypothesis Hi given the sensory input D.
+
+---
+
+p.568: Consistency of an organization with sensory input
+
+Trading-off between consistency and simplicity. Attneave (1982) indicates that such trade-offs, if they occur, may be quite small.
+
+In my approach, I'm stipulating that the hypothesis must generate a particular type of in extenso representation of the input.
+
+---
+
+p.568: Null perceptual organizations
+
+These over-generate, like the theory that "Anything whatsoever can happen". This is very simple, but it does not generate an in extenso representation of *just* the sensory data, it generates all theoretically possible sensory data, not just that which is actually experienced.
+
+"Fortunately, there is an alternative way to proceed. This is to view perceptual organization as a means of encoding the sensory stimulus; and to propose the perceptual organization chosen is that which allows the simplest encoding of the stimulus. This view disallows simple perceptual organizations that bear little or no relation to the stimulus, because these organizations do not help encode the stimulus simply. It also provides and operational definition of the explanatory power of a perceptual organization---as the degree to which that organization helps provide a simple encoding of the stimulus. If a perceptual organization captures the regularities in the stimulus (i.e., if it "explains" those regularities), then it will provide the basis for a brief description of the stimulus. Explanatory power is therefore not an additional constraint that must be traded off against simplicity; maximizing explanatory power is the same as maximizing the simplicity of the encoding of the stimulus."
+---
